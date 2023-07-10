@@ -1,5 +1,5 @@
 # magento-blog
-Magento 2 Blog Extension Free allows customers to publish blog posts for your online store without relying on other platforms. This extension allows you to open a blog and manage categories, posts, comments easily.
+Magento 2 Blog Extension allows you create and display informative and engaging content on your website, you can create blog posts with various formatting options and manage them in different categories and tags.
 
 Please go to https://magehq.com/magento-2-blog-extension.html download free extension
 
